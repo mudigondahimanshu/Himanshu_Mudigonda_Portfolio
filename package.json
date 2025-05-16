@@ -2,7 +2,14 @@
   "name": "portfolio-website",
   "version": "0.1.0",
   "private": true,
-
+  "homepage": "https://devashishmudigonda.github.io/Devashish_Portfolio",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export && touch out/.nojekyll",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d out -r https://github.com/devashishmudigonda/Devashish_Portfolio.git",
+    "start": "next start"
+  },
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "framer-motion": "^12.11.0",
@@ -15,13 +22,8 @@
     "@tailwindcss/postcss": "^4.1.5",
     "eslint": "^9.26.0",
     "eslint-config-next": "^15.3.2",
-    "gh-pages": "^6.0.0",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.4.31",
     "tailwindcss": "^4.1.5"
-  },
-  "scripts": {
-    "dev": "next dev --turbopack",
-    "build": "next build --turbopack",
-    "start": "next start"
   }
 }

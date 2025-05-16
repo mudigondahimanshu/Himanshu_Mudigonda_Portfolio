@@ -2,10 +2,11 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: [],
-    unoptimized: true,
+    unoptimized: true, // Required for GitHub Pages (no Image Optimization server)
   },
-  allowedDevOrigins: ['192.168.29.3'],
-}
+  output: 'export', // Enables static HTML export
+  basePath: '/Devashish_Portfolio', // Required for GitHub Pages hosted under a subpath
+  assetPrefix: '/Devashish_Portfolio/', // Ensures CSS/JS loads correctly
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
