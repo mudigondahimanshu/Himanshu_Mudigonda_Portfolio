@@ -5,7 +5,7 @@
   "homepage": "https://devashishmudigonda.github.io/Devashish_Portfolio",
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export && touch out/.nojekyll",
+    "build": "next build && touch out/.nojekyll",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d out -r https://github.com/devashishmudigonda/Devashish_Portfolio.git",
     "start": "next start"
