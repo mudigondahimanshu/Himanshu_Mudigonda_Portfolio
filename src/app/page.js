@@ -209,22 +209,6 @@ export default function Home() {
         </div>
       </AnimatedSection>
 
-      {/* GitHub Contributions */}
-      // <AnimatedSection animation="slideUp" className="section">
-      //   <h2 className="page-title">
-      //     <span className="flex items-center">
-      //       <FaGithub size={28} className="text-gray-700 dark:text-gray-300 mr-2" />
-      //       GitHub Activity
-      //     </span>
-      //   </h2>
-      //   <p className="text-gray-600 dark:text-gray-300 mb-2">
-      //     Check out my GitHub contributions and activity.
-      //   </p>
-      //   <div className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-md">
-      //     <GitHubContributions />
-      //   </div>
-      // </AnimatedSection>
-
       {/* Testimonials Section */}
       <AnimatedSection animation="slideUp" className="section">
         <TestimonialsSection />
