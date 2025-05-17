@@ -6,6 +6,13 @@ import { FaLinkedin } from 'react-icons/fa';
 
 const testimonials = [
   {
+    name: "Karthikeya Boorla",
+    role: "AMTS, Salesforce",
+    image: "/testimonials/karthikeya.png",
+    linkedin: "https://www.linkedin.com/in/boorla-karthikeya/",
+    feedback: "I’ve had the pleasure of working closely with Devashish over the last four years of our B.Tech journey, collaborating on numerous projects and assignments. His technical skills never cease to amaze me—he consistently brings a fresh perspective and innovative solutions to every problem we tackle. What truly sets him apart is his critical thinking and analytical mindset, which have often helped our team overcome complex challenges efficiently. Devashish is not only a quick learner but also someone who goes the extra mile to ensure the success of any task at hand. His dedication, work ethic, and attention to detail make him an invaluable team member. He has a natural ability to lead, support, and inspire those around him. Watching him grow and push boundaries has been inspiring, and I have no doubt that he will excel in any endeavor he chooses to pursue."
+  },
+  {
     name: "Uday Kiran Reddy",
     role: "Software Development Engineer, PayPal",
     image: "/testimonials/uday.png",
@@ -25,6 +32,20 @@ const testimonials = [
     image: "/testimonials/praneeth.png",
     linkedin: "https://www.linkedin.com/in/praneeth-katta-964646233/",
     feedback: "I’ve had the pleasure of knowing Devashish Mudigonda, and I can confidently say that he is one of the most hardworking and passionate developers I’ve met. His dedication to learning and building impactful solutions—whether it’s through his work with web development, automation tools, or real-time image processing—truly sets him apart. His internships at HSBC and Providence India, combined with his active participation in hackathons and extracurriculars, reflect his drive and commitment to excellence. Devashish brings energy, curiosity, and technical depth to every project he takes on."
+  },
+  {
+    name: "Shreyas G Pujar",
+    role: "Software Development Engineer, Bank of America",
+    image: "/testimonials/shreyas.png",
+    linkedin: "https://www.linkedin.com/in/sgp04/",
+    feedback: "I had the pleasure of working with Devashish during our engineering studies, and he consistently distinguished himself through his dedication, intellect, and professionalism. He has an exceptional ability to quickly comprehend complex concepts and apply them effectively, often producing high-quality outcomes with minimal supervision. In many of our collaborations, Devashish demonstrated sharp problem-solving skills, a proactive attitude, and a strong sense of teamwork. His exemplary work ethic has rightfully earned him opportunities with respected organizations such as Providence and HSBC. In addition to his technical strengths, Devashish contributes a positive mindset and strong interpersonal skills, making him a standout collaborator in any professional setting and a fun person to work with."
+  },
+  {
+    name: "Jay Sundar",
+    role: "Unity Developer, Primecraft Games Pvt Ltd",
+    image: "/testimonials/jay.png",
+    linkedin: "https://www.linkedin.com/in/jay-sundar-279061234/",
+    feedback: "From the first time I met Devashish Mudigonda, I knew he wasn’t just another tech enthusiast—he was someone who saw problems as puzzles waiting to be solved. I’ve seen him dive headfirst into projects, whether it’s creating sleek web applications, building automation tools, or experimenting with real-time image processing. His journey through internships at HSBC and Providence India, along with countless hackathons, has only sharpened his skills and curiosity. Devashish isn’t just a developer; he’s a builder, a thinker, and someone who brings passion and innovation to everything he touches."
   },
 ];
 
