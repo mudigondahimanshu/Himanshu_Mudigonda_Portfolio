@@ -58,7 +58,7 @@ export const projectsData = [
     featured: false,
     tags: ["python", "django", "webapp"],
     year: "2023"
-  }
+  },
   {
     id: 4,
     title: "React To-Do App",
