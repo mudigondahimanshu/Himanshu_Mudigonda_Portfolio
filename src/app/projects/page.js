@@ -23,7 +23,7 @@ export default function Projects() {
     // { id: 'iot', label: 'IoT' },
     { id: 'java', label: 'Java' },
     { id: 'python', label: 'Python' },
-    // { id: 'website', label: 'Web' }
+    { id: 'javascript', label: 'JavaScript' }
   ];
   
   const sortOptions = [
