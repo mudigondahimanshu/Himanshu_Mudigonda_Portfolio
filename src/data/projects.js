@@ -59,6 +59,23 @@ export const projectsData = [
     tags: ["python", "django", "webapp"],
     year: "2023"
   }
+  {
+    id: 4,
+    title: "React To-Do App",
+    description: "A responsive React-based To-Do application with dark mode, task management, and smooth UI interactions",
+    image: "/projects/todo.png",
+    images: [ // all images (for overlay modal or gallery)
+      "/projects/todo-demo1.png",
+      "/projects/todo-demo2.png",
+      "/projects/todo-demo3.png",
+      "/projects/todo-demo4.png",
+    ],
+    technologies: ["JavaScript", "React"],
+    codeUrl: "",
+    featured: true,
+    tags: ["javascript", "react"],
+    year: "2023"
+  },
 ];
 
 export const getFeaturedProjects = () => {
