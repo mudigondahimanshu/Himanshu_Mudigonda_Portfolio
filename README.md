@@ -30,7 +30,6 @@ This is a modern, animated, and responsive portfolio website built with **Next.j
 | Testimonials  | ![Testimonials](/public/screenshots/testimonials.png) |
 | LeetCode      | ![LeetCode](/public/screenshots/leetcode.png) |
 
-> 📁 Place all your screenshots in `public/screenshots/` with the same file names as shown above.
 
 ---
 
