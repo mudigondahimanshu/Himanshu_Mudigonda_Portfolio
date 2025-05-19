@@ -23,12 +23,12 @@ This is a modern, animated, and responsive portfolio website built with **Next.j
 | Page          | Preview |
 |---------------|---------|
 | Home          | ![Home](/public/screenshots/home.png) |
-| Projects      | ![Projects](/screenshots/projects.png) |
-| Skills        | ![Skills](/screenshots/skills.png) |
-| Experience    | ![Experience](/screenshots/experience.png) |
-| Contact       | ![Contact](/screenshots/contact.png) |
-| Testimonials  | ![Testimonials](/screenshots/testimonials.png) |
-| LeetCode      | ![LeetCode](/screenshots/leetcode.png) |
+| Projects      | ![Projects](/public/screenshots/projects.png) |
+| Skills        | ![Skills](/public/screenshots/skills.png) |
+| Experience    | ![Experience](/public/screenshots/experience.png) |
+| Contact       | ![Contact](/public/screenshots/contact.png) |
+| Testimonials  | ![Testimonials](/public/screenshots/testimonials.png) |
+| LeetCode      | ![LeetCode](/public/screenshots/leetcode.png) |
 
 > 📁 Place all your screenshots in `public/screenshots/` with the same file names as shown above.
 
