@@ -1,4 +1,108 @@
-## 🌐 Portfolio
+# 💼 Devashish Mudigonda — Portfolio Website
 
-Check out my personal portfolio website:  
-🔗 [Devashish Mudigonda's Portfolio](https://devashish-portfolio-two.vercel.app/)
+Live Site: [devashish-portfolio.vercel.app](https://devashish-portfolio-two.vercel.app/)
+
+This is a modern, animated, and responsive portfolio website built with **Next.js 15**, **Tailwind CSS**, **Framer Motion**, and **EmailJS**. It showcases my work, skills, experience, education, and testimonials — designed for hiring managers and recruiters.
+
+---
+
+## ✨ Features
+
+- 💡 Clean responsive layout with dark/light toggle
+- 🌀 Framer Motion-based section animations
+- 🔍 Project gallery with image modals
+- 🗣️ Testimonials slider
+- 🎓 Animated education timeline
+- 📬 Contact form with EmailJS integration
+- ⚙️ Hosted on Vercel with auto deploy
+
+---
+
+## 📸 Screenshots
+
+| Page          | Preview |
+|---------------|---------|
+| Home          | ![Home](/screenshots/home.png) |
+| Projects      | ![Projects](/screenshots/projects.png) |
+| Skills        | ![Skills](/screenshots/skills.png) |
+| Experience    | ![Experience](/screenshots/experience.png) |
+| Contact       | ![Contact](/screenshots/contact.png) |
+| Testimonials  | ![Testimonials](/screenshots/testimonials.png) |
+| LeetCode      | ![LeetCode](/screenshots/leetcode.png) |
+
+> 📁 Place all your screenshots in `public/screenshots/` with the same file names as shown above.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Next.js 15**
+- **Tailwind CSS 4**
+- **Framer Motion**
+- **React Icons**
+- **EmailJS**
+- **Vercel**
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/devashishmudigonda/Devashish_Portfolio.git
+   cd Devashish_Portfolio
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Create `.env.local`**
+   ```
+   NEXT_PUBLIC_EMAILJS_SERVICE_ID=your_service_id
+   NEXT_PUBLIC_EMAILJS_TEMPLATE_ID=your_template_id
+   NEXT_PUBLIC_EMAILJS_KEY=your_public_key
+   ```
+
+4. **Run locally**
+   ```bash
+   npm run dev
+   ```
+
+---
+
+## 🧪 Production Build
+
+```bash
+npm run build
+npm run start
+```
+
+---
+
+## 🌐 Deploying to Vercel
+
+1. Push your code to GitHub
+2. Go to [vercel.com](https://vercel.com)
+3. Connect your GitHub repo and set:
+   - `NEXT_PUBLIC_EMAILJS_SERVICE_ID`
+   - `NEXT_PUBLIC_EMAILJS_TEMPLATE_ID`
+   - `NEXT_PUBLIC_EMAILJS_KEY`
+4. Click **Deploy**
+
+---
+
+## 🙋‍♂️ Author
+
+**Devashish Mudigonda**
+
+- 📧 Email: [devashishmudigonda@gmail.com](mailto:devashishmudigonda@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/devashish-mudigonda-01822b222/)  
+- 💻 [GitHub](https://github.com/devashishmudigonda)
+
+---
+
+## ❤️ Acknowledgments
+
+- Built with love and endless debugging
