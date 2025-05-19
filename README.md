@@ -22,7 +22,7 @@ This is a modern, animated, and responsive portfolio website built with **Next.j
 
 | Page          | Preview |
 |---------------|---------|
-| Home          | ![Home](/screenshots/home.png) |
+| Home          | ![Home](/public/screenshots/home.png) |
 | Projects      | ![Projects](/screenshots/projects.png) |
 | Skills        | ![Skills](/screenshots/skills.png) |
 | Experience    | ![Experience](/screenshots/experience.png) |
