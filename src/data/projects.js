@@ -72,7 +72,8 @@ export const projectsData = [
     ],
     technologies: ["JavaScript", "React"],
     codeUrl: "https://github.com/devashishmudigonda/ToDo-List-react",
-    featured: true,
+    demoUrl: "https://to-do-list-react-app-lyart.vercel.app/",
+    featured: false,
     tags: ["javascript", "react"],
     year: "2023"
   },
