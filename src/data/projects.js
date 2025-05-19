@@ -71,7 +71,7 @@ export const projectsData = [
       "/projects/todo-demo4.png",
     ],
     technologies: ["JavaScript", "React"],
-    codeUrl: "",
+    codeUrl: "https://github.com/devashishmudigonda/ToDo-List-react",
     featured: true,
     tags: ["javascript", "react"],
     year: "2023"
