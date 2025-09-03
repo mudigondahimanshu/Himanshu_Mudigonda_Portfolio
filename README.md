@@ -22,14 +22,13 @@ This is a modern, animated, and responsive portfolio website built with **Next.j
 
 | Page          | Preview |
 |---------------|---------|
-| Home          | ![Home](<img width="2515" height="1335" alt="image" src="https://github.com/user-attachments/assets/c4d3f2a7-d91d-454d-abe1-30bfd5cbcbf9" />
-) |
-| Projects      | ![Projects](<img width="1258" height="661" alt="image" src="https://github.com/user-attachments/assets/3f063a9d-48d8-4cb9-a8f0-94fff634b2b7" />) |
-| Skills        | ![Skills](<img width="1261" height="668" alt="image" src="https://github.com/user-attachments/assets/765c2d60-600e-4640-8d73-8506f8888eac" />) |
-| Experience    | ![Experience](<img width="1253" height="668" alt="image" src="https://github.com/user-attachments/assets/addf6136-a86f-417a-8ed2-eed1d1adceae" />) |
-| Contact       | ![Contact](<img width="1258" height="670" alt="image" src="https://github.com/user-attachments/assets/885d8c4f-058a-4369-a3e7-7b1a94fcd852" />) |
-| Testimonials  | ![Testimonials](<img width="1262" height="574" alt="image" src="https://github.com/user-attachments/assets/4fb9bb91-ee60-4436-8e43-7d3f926fc7b9" />) |
-| LeetCode      | ![LeetCode](<img width="1258" height="427" alt="image" src="https://github.com/user-attachments/assets/bc1287c4-c803-440e-8a28-a697f16df9de" />) |
+| Home          | ![Home](<img width="2515" height="1335" alt="image" src="https://github.com/user-attachments/assets/c4d3f2a7-d91d-454d-abe1-30bfd5cbcbf9" />) |
+| Projects      | ![Projects](<img width="2515" height="1321" alt="image" src="https://github.com/user-attachments/assets/16978f9d-440e-4df4-a0b4-6da097a19ab7" />) |
+| Skills        | ![Skills](<img width="2521" height="1336" alt="image" src="https://github.com/user-attachments/assets/2ff7a5de-320f-4d72-a530-2b3e9a05138b" />) |
+| Experience    | ![Experience](<img width="2505" height="1336" alt="image" src="https://github.com/user-attachments/assets/d2c40dfe-83c2-4040-98d7-0b7c2b1e1e9a" />) |
+| Contact       | ![Contact](<img width="2515" height="1339" alt="image" src="https://github.com/user-attachments/assets/fff22b6f-b503-45ca-8639-224cddb5c027" />) |
+| Testimonials  | ![Testimonials](<img width="2523" height="1147" alt="image" src="https://github.com/user-attachments/assets/a1fb6994-9ad0-4238-8f21-34311a809101" />) |
+| LeetCode      | ![LeetCode](<img width="2515" height="853" alt="image" src="https://github.com/user-attachments/assets/16dd3e68-37fe-4c49-9cc5-3ad0fd22ac01" />) |
 
 
 ---
@@ -106,6 +105,7 @@ npm run start
 ## ❤️ Acknowledgments
 
 - Built with love and endless debugging
+
 
 
 
