@@ -19,33 +19,46 @@ import { getFeaturedProjects } from '../data/projects';
 
 const experiences = [
   {
-    company: "HSBC",
-    logo: "/logos/hsbc.png",
-    title: "Software Development Intern",
-    date: "Jan 2025 – Mar 2025",
-    description: "Built an internal PowerApps + SpringBoot solution to streamline company credit data (e.g. Moody’s)."
+    company: "Volteo Maritime",
+    logo: "/logos/volteo_maritime.png",
+    title: "full-stack development Intern",
+    date: "May 2025 – July 2025",
+    description: "Built an an automated smartport web application for seemless transportation process for shipment cargo.",
+    responsibilities: [
+      "Designed frontend interfaces using express.js.",
+      "Integrated backend services using MongoDB for secure data flow.",
+      "Handled automation for fetching and displaying vessel movements."
+    ],
+    tech: ["MongoDb", "express.js", "React"]
   },
-  {
-    company: "Providence India",
-    logo: "/logos/providence.png",
-    title: "Software Development Intern",
-    date: "Jun 2024 – Aug 2024",
-    description: "Automated device output generation and post-checks using Python scripts within a Django web app. Improved network operations efficiency by 40%."
-  },
-  {
-    company: "ACIC Rural Internship",
-    logo: "/logos/acic.png",
-    title: "Intern",
-    date: "Nov 2023 – Dec 2023",
-    description: "Conducted field survey and built a React app to help workers skill up via tutorials and WhatsApp integration."
-  },
-  {
-    company: "SmartKnower",
-    logo: "/logos/smartknower.png",
-    title: "ML Intern",
-    date: "May 2022 – Jul 2022",
-    description: "Studied various classifiers for income prediction using voice data. Achieved 98.47% accuracy with the best model."
-  }
+  // {
+  //   company: "HSBC",
+  //   logo: "/logos/hsbc.png",
+  //   title: "Software Development Intern",
+  //   date: "Jan 2025 – Mar 2025",
+  //   description: "Built an internal PowerApps + SpringBoot solution to streamline company credit data (e.g. Moody’s)."
+  // },
+  // {
+  //   company: "Providence India",
+  //   logo: "/logos/providence.png",
+  //   title: "Software Development Intern",
+  //   date: "Jun 2024 – Aug 2024",
+  //   description: "Automated device output generation and post-checks using Python scripts within a Django web app. Improved network operations efficiency by 40%."
+  // },
+  // {
+  //   company: "ACIC Rural Internship",
+  //   logo: "/logos/acic.png",
+  //   title: "Intern",
+  //   date: "Nov 2023 – Dec 2023",
+  //   description: "Conducted field survey and built a React app to help workers skill up via tutorials and WhatsApp integration."
+  // },
+  // {
+  //   company: "SmartKnower",
+  //   logo: "/logos/smartknower.png",
+  //   title: "ML Intern",
+  //   date: "May 2022 – Jul 2022",
+  //   description: "Studied various classifiers for income prediction using voice data. Achieved 98.47% accuracy with the best model."
+  // }
 ];
 
 
@@ -53,13 +66,13 @@ export default function Home() {
   const featuredProjects = getFeaturedProjects();
 
   const aboutMeText = [
-    "I’m Devashish Mudigonda, a Computer Science and Engineering student at CBIT with a 9.3 CGPA. I’m passionate about Web Development, Machine Learning, and Automation, and enjoy building scalable, impactful solutions.",
+    "I’m Himanshu Mudigonda, a Computer Science and Engineering student at Amrita Vishwa Vidyapeetham, Coimbatore with a 7.42 CGPA. I’m passionate about Web Development, Machine Learning, and Automation, and enjoy building scalable, impactful solutions.",
     
-    "Through internships at HSBC and Providence India, I developed tools using PowerApps, SpringBoot, Django, and Python—automating processes and enhancing network operations.",
+    "Through internship at Volteo Maritime, I developed tools using PowerApps, SpringBoot, Django, and Python—automating processes and enhancing network operations.",
     
-    "My projects include a CNN-based crop disease detector using Flask, and a firewall policy matcher for network automation. I love integrating AI into practical applications.",
+    "My projects I Engineered a responsive Smartport web application with seamless backend integration using Express.js and MongoDB, and Made changes in the existing APMB (Andra Pradesh port management system) website by enhancing the UI. I love integrating AI into practical applications.",
     
-    "I’ve served as Deputy Website Head of the Robotics Club and an NCC Cadet. I’m also a state-level Gold Medalist in Powerlifting, which reflects my discipline and drive.",
+    "I’ve served as  an NCC Cadet. I’m also a state-level Gold Medalist in Powerlifting, which reflects my discipline and drive.",
     
     "In my free time, I pursue fitness and powerlifting, while staying current with the latest in tech through personal projects and continuous learning."
   ];
@@ -71,7 +84,7 @@ export default function Home() {
       <AnimatedSection animation="fadeIn" className="flex flex-col md:flex-row items-center justify-between">
         <div className="md:w-1/2 space-y-6">
           <h1 className="text-4xl md:text-5xl font-bold">
-            Hi, I&apos;m <span className="text-primary">Devashish Mudigonda</span>
+            Hi, I&apos;m <span className="text-primary">Himanshu Mudigonda</span>
           </h1>
           <h2 className="text-2xl md:text-3xl text-gray-700 dark:text-gray-300">
             Software Developer
@@ -90,7 +103,7 @@ export default function Home() {
               Contact Me
             </Link>
             <Link
-              href="/Devashish_Mudigonda_Resume.pdf"
+              href="/Himanshu_Mudigonda_Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               download
@@ -105,8 +118,8 @@ export default function Home() {
         <AnimatedSection animation="scaleUp" delay={0.3} className="md:w-1/2 mt-12 md:mt-0 flex justify-center">
           <div className="relative w-64 h-64 rounded-full overflow-hidden border-4 border-primary">
             <Image 
-              src={getImagePath("/projects/arm.jpeg")}
-              alt="Devashish Mudigonda"
+              src={getImagePath("/projects/himanshu_mudigonda.jpg")}
+              alt="Himanshu Mudigonda"
               fill
               sizes="(max-width: 768px) 100vw, 256px"
               className="object-cover"
@@ -219,21 +232,21 @@ export default function Home() {
         <h2 className="text-2xl font-bold mb-4 text-secondary dark:text-blue-400">Connect With Me</h2>
         <div className="flex justify-center space-x-6">
           <SocialButton 
-            href="https://github.com/devashishmudigonda" 
+            href="https://github.com/mudigondahimanshu" 
             icon={<FaGithub size={24} />}
             label="GitHub"
             bgColor="bg-gray-800 dark:bg-gray-700"
             textColor="text-white" 
           />
           <SocialButton 
-            href="https://www.linkedin.com/in/devashish-mudigonda-01822b222/" 
+            href="https://www.linkedin.com/in/himanshu-mudigonda-09a9ba29b/" 
             icon={<FaLinkedin size={24} />}
             label="LinkedIn"
             bgColor="bg-blue-600"
             textColor="text-white" 
           />
           <SocialButton 
-            href="mailto:devashishmudigonda@gmail.com" 
+            href="mailto:himanshumudigonda@gmail.com" 
             icon={<FaEnvelope size={24} />}
             label="Email"
             bgColor="bg-red-500"

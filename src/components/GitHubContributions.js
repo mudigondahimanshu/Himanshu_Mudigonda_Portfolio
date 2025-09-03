@@ -23,7 +23,7 @@ const GitHubContributions = () => {
     const fetchContributions = async () => {
       setLoading(true);
       try {
-        const response = await fetch('https://github-contributions-api.jogruber.de/v4/devashishmudigonda');
+        const response = await fetch('https://github-contributions-api.jogruber.de/v4/himanshumudigonda');
         if (!response.ok) {
           throw new Error('Failed to fetch GitHub contributions');
         }

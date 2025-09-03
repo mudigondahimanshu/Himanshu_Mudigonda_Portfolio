@@ -206,8 +206,8 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-sm text-gray-600 dark:text-gray-400">Email</p>
-                  <a href="mailto:devashishmudigonda@gmail.com" className="text-gray-800 dark:text-white hover:text-blue-600 dark:hover:text-blue-400">
-                    devashishmudigonda@gmail.com
+                  <a href="mailto:himanshumudigonda@gmail.com" className="text-gray-800 dark:text-white hover:text-blue-600 dark:hover:text-blue-400">
+                    himanshumudigonda@gmail.com
                   </a>
                 </div>
               </div>
@@ -218,8 +218,8 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-sm text-gray-600 dark:text-gray-400">LinkedIn</p>
-                  <a href="https://www.linkedin.com/in/devashish-mudigonda-01822b222/" target="_blank" rel="noopener noreferrer" className="text-gray-800 dark:text-white hover:text-blue-600 dark:hover:text-blue-400">
-                    Devashish Mudigonda
+                  <a href="https://www.linkedin.com/in/himanshu-mudigonda-09a9ba29b/" target="_blank" rel="noopener noreferrer" className="text-gray-800 dark:text-white hover:text-blue-600 dark:hover:text-blue-400">
+                    Himanshu Mudigonda
                   </a>
                 </div>
               </div>
@@ -230,8 +230,8 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-sm text-gray-600 dark:text-gray-400">GitHub</p>
-                  <a href="https://github.com/devashishmudigonda" target="_blank" rel="noopener noreferrer" className="text-gray-800 dark:text-white hover:text-blue-600 dark:hover:text-blue-400">
-                    @devashishmudigonda
+                  <a href="https://github.com/mudigondahimanshu" target="_blank" rel="noopener noreferrer" className="text-gray-800 dark:text-white hover:text-blue-600 dark:hover:text-blue-400">
+                    @himanshumudigonda
                   </a>
                 </div>
               </div>

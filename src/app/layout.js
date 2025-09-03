@@ -9,7 +9,7 @@ import ScrollObserver from '../components/ScrollObserver';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: "Devashish's Portfolio",
+  title: "Himanshu's Portfolio",
   description: 'My portfolio website showcasing my projects and skills',
 };
 

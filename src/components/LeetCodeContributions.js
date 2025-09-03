@@ -2,7 +2,7 @@
 import React from "react";
 
 const LeetCodeContributions = () => {
-  const username = "devashishmudigonda"; // replace with your actual LeetCode username
+  const username = "mudigondahimanshu"; // replace with your actual LeetCode username
   const cardUrl = `https://leetcard.jacoblin.cool/${username}?ext=contest`;
 
   return (

@@ -114,7 +114,7 @@ export default function Navbar() {
                 animate={{ x: isLoaded ? 0 : -20, opacity: isLoaded ? 1 : 0 }}
                 transition={{ duration: 0.5, delay: 0.1 }}
               >
-                Devashish Mudigonda
+                Himanshu Mudigonda
                 <span className="text-xs text-gray-500 dark:text-gray-400"> | Software Developer</span>
                 {isSpinning && <span className="text-xs ml-1">🌀</span>}
               </motion.span>
