@@ -26,10 +26,14 @@ This is a modern, animated, and responsive portfolio website built with **Next.j
 ) |
 | Projects      | ![Projects](<img width="2515" height="1321" alt="image" src="https://github.com/user-attachments/assets/7c8da740-f903-49d8-b2ee-ceda8c40f870" />
 ) |
-| Skills        | ![Skills](<img width="2521" height="1336" alt="image" src="https://github.com/user-attachments/assets/2ff7a5de-320f-4d72-a530-2b3e9a05138b" />) |
-| Experience    | ![Experience](<img width="2505" height="1336" alt="image" src="https://github.com/user-attachments/assets/d2c40dfe-83c2-4040-98d7-0b7c2b1e1e9a" />) |
-| Contact       | ![Contact](<img width="2515" height="1339" alt="image" src="https://github.com/user-attachments/assets/fff22b6f-b503-45ca-8639-224cddb5c027" />) |
-| Testimonials  | ![Testimonials](<img width="2523" height="1147" alt="image" src="https://github.com/user-attachments/assets/a1fb6994-9ad0-4238-8f21-34311a809101" />) |
+| Skills        | ![Skills](<img width="2521" height="1336" alt="image" src="https://github.com/user-attachments/assets/c2cc6cf3-d3d8-4bdd-86db-fd0c11145c32" />
+) |
+| Experience    | ![Experience](<img width="2505" height="1336" alt="image" src="https://github.com/user-attachments/assets/21c98a04-ec0c-4126-a946-998d28e5d422" />
+) |
+| Contact       | ![Contact](<img width="2515" height="1339" alt="image" src="https://github.com/user-attachments/assets/6e13ff1e-af3b-4d1b-91ed-f6e9ffcc6f89" />
+) |
+| Testimonials  | ![Testimonials](<img width="2523" height="1147" alt="image" src="https://github.com/user-attachments/assets/f2c1931c-b866-4cc5-8881-15cc492b1fb7" />
+) |
 | LeetCode      | ![LeetCode](<img width="2515" height="853" alt="image" src="https://github.com/user-attachments/assets/57fd0dfe-ae6f-47e5-8a82-7253e029256b" />
 ) |
 
@@ -108,6 +112,7 @@ npm run start
 ## ❤️ Acknowledgments
 
 - Built with love and endless debugging
+
 
 
 
