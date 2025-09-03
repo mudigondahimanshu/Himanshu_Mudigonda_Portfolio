@@ -96,13 +96,14 @@ npm run start
 
 **Devashish Mudigonda**
 
-- 📧 Email: [devashishmudigonda@gmail.com](mailto:devashishmudigonda@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/devashish-mudigonda-01822b222/)  
-- 💻 [GitHub](https://github.com/devashishmudigonda)
+- 📧 Email: [himanshumudigonda@gmail.com](mailto:himanshumudigonda@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/himanshu-mudigonda-09a9ba29b/)  
+- 💻 [GitHub](https://github.com/mudigondahimanshu)
 
 ---
 
 ## ❤️ Acknowledgments
 
 - Built with love and endless debugging
+
 
