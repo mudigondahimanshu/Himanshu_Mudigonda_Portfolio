@@ -22,7 +22,8 @@ This is a modern, animated, and responsive portfolio website built with **Next.j
 
 | Page          | Preview |
 |---------------|---------|
-| Home          | ![Home](<img width="1258" height="668" alt="image" src="https://github.com/user-attachments/assets/06d5a5e2-8086-4baa-b9ac-8061af47be93" />) |
+| Home          | ![Home](<img width="2515" height="1335" alt="image" src="https://github.com/user-attachments/assets/c4d3f2a7-d91d-454d-abe1-30bfd5cbcbf9" />
+) |
 | Projects      | ![Projects](<img width="1258" height="661" alt="image" src="https://github.com/user-attachments/assets/3f063a9d-48d8-4cb9-a8f0-94fff634b2b7" />) |
 | Skills        | ![Skills](<img width="1261" height="668" alt="image" src="https://github.com/user-attachments/assets/765c2d60-600e-4640-8d73-8506f8888eac" />) |
 | Experience    | ![Experience](<img width="1253" height="668" alt="image" src="https://github.com/user-attachments/assets/addf6136-a86f-417a-8ed2-eed1d1adceae" />) |
@@ -105,6 +106,7 @@ npm run start
 ## ❤️ Acknowledgments
 
 - Built with love and endless debugging
+
 
 
 
